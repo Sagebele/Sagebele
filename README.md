@@ -2,4 +2,4 @@
 - 👀 Programmer/Student/Space enthusiast . 
 - 👾 Fluent in C/C++ .
 - 🌱 I’m currently learning HTML / CSS / JS . 
-- 📫 How to reach me sdi1600109@di.uoa.gr .
+- 📫 How to reach me belesismarios@gmail.com .
