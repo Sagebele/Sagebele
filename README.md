@@ -1,5 +1,5 @@
 - 👋 My name is Marios Belesis .
-- 👀 Programmer/Student/Space enthusiast . 
+- 👀 Programmer/LifeLong Learner/Space enthusiast . 
 - 👾 Fluent in C/C++/Lua .
 - 🌱 I’m currently learning HTML / Typescript / CSS / JS / React .
 - ☁️ My Dream is to become a Full Stack Web Developer!
