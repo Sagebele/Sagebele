@@ -1,5 +1,6 @@
 - 👋 My name is Marios Belesis .
 - 👀 Programmer/Student/Space enthusiast . 
-- 👾 Fluent in C/C++ .
-- 🌱 I’m currently learning HTML / CSS / JS . 
+- 👾 Fluent in C/C++/Lua .
+- 🌱 I’m currently learning HTML / Typescript / CSS / JS / React .
+- ☁️ My Dream is to become a Full Stack Web Developer!
 - 📫 How to reach me belesismarios@gmail.com .
